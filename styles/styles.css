@@ -1,9 +1,22 @@
 .nav-items {
   display: flex;
   flex-direction: row;
-  gap: 70px;
+  gap: 200px;
   margin: 0%;
   justify-content: center;
   font-size: xx-large;
   list-style: none;
+  padding: 20px;
 }
+body{
+  background-color: floralwhite;
+}
+img {
+  size-adjust: cover;
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+
