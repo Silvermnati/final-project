@@ -26,5 +26,13 @@ h1 {
   text-align: center;
   font-size: 60px;
 }
+.games ol {
+  list-style: none;
+  display: inline-flex;
+  justify-items: center;
+  gap: 20px;
+  padding: auto;
+  box-sizing: content-box;
+}
 
 
